@@ -24,6 +24,26 @@ To check your copy, right-click `zt.exe` → *Properties* → *Details*. *File v
 
 Custom animal packs (`.z2f` downloads such as dinosaurs, WWD, JPOG skins) work. Custom animals can be ridden too.
 
+### Mod packs installed in the test setup
+
+v1.0 was tested on a game with all of the packs below in the game folder. Animals from these packs can be ridden, for example the JPOG T-Rex, Sarcosuchus, Deinosuchus, Mastodon, Goliath Grouper and Dracorex. You don't need any of them: the mod also works on a plain game.
+
+| Pack (file in the game folder) | What it is |
+|---|---|
+| `zzzzzz_zt2_operation_genesis_part_b_v1.0.z2f` | Operation Genesis (JPOG) dinosaurs for ZT2, part B |
+| `zzzzzzz_zt2og_patch1.z2f`, `zzzzzzzzz_zt2og_patch2_eggfix.z2f` | JPOG pack patches 1 and 2 (egg fix) |
+| `zzzzzzzz_jpog_retextured_skins.z2f` | JPOG retextured dinosaur skins |
+| `zzzzzzzzz_jpog_objects_v3.0.z2f` | JPOG buildings / objects v3.0 |
+| `zWWD_1_NewBlood.z2f`, `zWWD_2_TimeOfTheTitans.z2f`, `zWWD_3_CruelSea.z2f`, `zWWD_5_SpiritsOfTheIceForest.z2f`, `zWWD_7_LandOfGiants.z2f`, `zWWD_8_GiantClaw.z2f`, `zWWD_enableFootsteps.z2f` | Walking With Dinosaurs series packs (Sarcosuchus, Deinosuchus and more) + footsteps |
+| `zWWB_Megatherium.z2f`, `zWWSM_Cymbospondylus.z2f` | Walking With Beasts / Sea Monsters animals |
+| `DM_Dracorex.z2f`, `DM_Gallimimus.z2f`, `DM_Oviraptor.z2f`, `DM_EmperorTamarin.z2f` | Downloadable animals |
+| `DM_WLP_Dorado.z2f`, `DM_WLP_GoliathGrouper.z2f`, `DM_WLP_HumpheadWrasse.z2f` | Marine animals |
+| `zEuropeanExpeditions.z2f`, `zPalaeontologistsOnSpeed.z2f` | European Expeditions pack, faster palaeontologists |
+| `zUnderwaterTunnel_v1.z2f` | Underwater tunnel |
+| `zWidescreen.z2f` | Widescreen fix |
+| `zzzzzzzzzzzz_TankButtonsFix.z2f` | Tank buttons fix |
+| `Addax`, `ElephantAsian_050505`, `LeopardAndDummy`, `TundraAndMuskOx`, `BeautificationPack_061305`, `ChallengePack1`, `GuestPack`, `HolidayPack`, `SceneryPack`, `PDLC1_2` (.z2f) and the `DLC` folder | Official Zoo Tycoon 2 download packs that come with the Complete Edition |
+
 **Windows:** tested on Windows 11 (ROG Ally). It needs the DirectX 9 runtime that Zoo Tycoon 2 already uses.
 
 ## Which mod builds work
